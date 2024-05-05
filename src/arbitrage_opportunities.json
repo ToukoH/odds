@@ -1,0 +1,452 @@
+[
+    {
+        "game": "Tampa Bay Rays vs New York Mets",
+        "team1": "New York Mets",
+        "odd1": 2.0,
+        "bookmaker1": "DraftKings",
+        "team2": "Tampa Bay Rays",
+        "odd2": 6.75,
+        "bookmaker2": "MyBookie.ag",
+        "arb_calc": 0.6481481481481481
+    },
+    {
+        "game": "Tampa Bay Rays vs New York Mets",
+        "team1": "New York Mets",
+        "odd1": 2.0,
+        "bookmaker1": "DraftKings",
+        "team2": "Tampa Bay Rays",
+        "odd2": 2.1,
+        "bookmaker2": "BetMGM",
+        "arb_calc": 0.9761904761904762
+    },
+    {
+        "game": "Tampa Bay Rays vs New York Mets",
+        "team1": "New York Mets",
+        "odd1": 1.82,
+        "bookmaker1": "FanDuel",
+        "team2": "Tampa Bay Rays",
+        "odd2": 6.75,
+        "bookmaker2": "MyBookie.ag",
+        "arb_calc": 0.6975986975986975
+    },
+    {
+        "game": "Tampa Bay Rays vs New York Mets",
+        "team1": "New York Mets",
+        "odd1": 1.87,
+        "bookmaker1": "PointsBet (US)",
+        "team2": "Tampa Bay Rays",
+        "odd2": 6.75,
+        "bookmaker2": "MyBookie.ag",
+        "arb_calc": 0.6829075064369181
+    },
+    {
+        "game": "Tampa Bay Rays vs New York Mets",
+        "team1": "New York Mets",
+        "odd1": 1.91,
+        "bookmaker1": "Caesars",
+        "team2": "Tampa Bay Rays",
+        "odd2": 6.75,
+        "bookmaker2": "MyBookie.ag",
+        "arb_calc": 0.6717083575722319
+    },
+    {
+        "game": "Tampa Bay Rays vs New York Mets",
+        "team1": "New York Mets",
+        "odd1": 1.91,
+        "bookmaker1": "Caesars",
+        "team2": "Tampa Bay Rays",
+        "odd2": 2.1,
+        "bookmaker2": "BetMGM",
+        "arb_calc": 0.9997506856145599
+    },
+    {
+        "game": "Tampa Bay Rays vs New York Mets",
+        "team1": "New York Mets",
+        "odd1": 1.85,
+        "bookmaker1": "WynnBET",
+        "team2": "Tampa Bay Rays",
+        "odd2": 6.75,
+        "bookmaker2": "MyBookie.ag",
+        "arb_calc": 0.6886886886886886
+    },
+    {
+        "game": "Tampa Bay Rays vs New York Mets",
+        "team1": "New York Mets",
+        "odd1": 1.71,
+        "bookmaker1": "BetMGM",
+        "team2": "Tampa Bay Rays",
+        "odd2": 6.75,
+        "bookmaker2": "MyBookie.ag",
+        "arb_calc": 0.732943469785575
+    },
+    {
+        "game": "Tampa Bay Rays vs New York Mets",
+        "team1": "New York Mets",
+        "odd1": 1.94,
+        "bookmaker1": "Unibet",
+        "team2": "Tampa Bay Rays",
+        "odd2": 6.75,
+        "bookmaker2": "MyBookie.ag",
+        "arb_calc": 0.6636120656739214
+    },
+    {
+        "game": "Tampa Bay Rays vs New York Mets",
+        "team1": "New York Mets",
+        "odd1": 1.94,
+        "bookmaker1": "Unibet",
+        "team2": "Tampa Bay Rays",
+        "odd2": 2.1,
+        "bookmaker2": "BetMGM",
+        "arb_calc": 0.9916543937162494
+    },
+    {
+        "game": "Tampa Bay Rays vs New York Mets",
+        "team1": "New York Mets",
+        "odd1": 1.8,
+        "bookmaker1": "Bovada",
+        "team2": "Tampa Bay Rays",
+        "odd2": 6.75,
+        "bookmaker2": "MyBookie.ag",
+        "arb_calc": 0.7037037037037037
+    },
+    {
+        "game": "Houston Astros vs Seattle Mariners",
+        "team1": "Houston Astros",
+        "odd1": 1.51,
+        "bookmaker1": "DraftKings",
+        "team2": "Seattle Mariners",
+        "odd2": 5.5,
+        "bookmaker2": "MyBookie.ag",
+        "arb_calc": 0.844069837447321
+    },
+    {
+        "game": "Houston Astros vs Seattle Mariners",
+        "team1": "Houston Astros",
+        "odd1": 1.44,
+        "bookmaker1": "FanDuel",
+        "team2": "Seattle Mariners",
+        "odd2": 5.5,
+        "bookmaker2": "MyBookie.ag",
+        "arb_calc": 0.8762626262626263
+    },
+    {
+        "game": "Houston Astros vs Seattle Mariners",
+        "team1": "Houston Astros",
+        "odd1": 1.5,
+        "bookmaker1": "PointsBet (US)",
+        "team2": "Seattle Mariners",
+        "odd2": 5.5,
+        "bookmaker2": "MyBookie.ag",
+        "arb_calc": 0.8484848484848484
+    },
+    {
+        "game": "Houston Astros vs Seattle Mariners",
+        "team1": "Houston Astros",
+        "odd1": 1.45,
+        "bookmaker1": "Caesars",
+        "team2": "Seattle Mariners",
+        "odd2": 5.5,
+        "bookmaker2": "MyBookie.ag",
+        "arb_calc": 0.871473354231975
+    },
+    {
+        "game": "Houston Astros vs Seattle Mariners",
+        "team1": "Houston Astros",
+        "odd1": 1.53,
+        "bookmaker1": "WynnBET",
+        "team2": "Seattle Mariners",
+        "odd2": 5.5,
+        "bookmaker2": "MyBookie.ag",
+        "arb_calc": 0.8354129530600118
+    },
+    {
+        "game": "Houston Astros vs Seattle Mariners",
+        "team1": "Houston Astros",
+        "odd1": 1.48,
+        "bookmaker1": "BetMGM",
+        "team2": "Seattle Mariners",
+        "odd2": 5.5,
+        "bookmaker2": "MyBookie.ag",
+        "arb_calc": 0.8574938574938575
+    },
+    {
+        "game": "Houston Astros vs Seattle Mariners",
+        "team1": "Houston Astros",
+        "odd1": 1.4,
+        "bookmaker1": "Unibet",
+        "team2": "Seattle Mariners",
+        "odd2": 5.5,
+        "bookmaker2": "MyBookie.ag",
+        "arb_calc": 0.8961038961038961
+    },
+    {
+        "game": "Houston Astros vs Seattle Mariners",
+        "team1": "Houston Astros",
+        "odd1": 1.49,
+        "bookmaker1": "Bovada",
+        "team2": "Seattle Mariners",
+        "odd2": 5.5,
+        "bookmaker2": "MyBookie.ag",
+        "arb_calc": 0.8529591214154972
+    },
+    {
+        "game": "St. Louis Cardinals vs Chicago White Sox",
+        "team1": "Chicago White Sox",
+        "odd1": 1.03,
+        "bookmaker1": "MyBookie.ag",
+        "team2": "St. Louis Cardinals",
+        "odd2": 51.0,
+        "bookmaker2": "FanDuel",
+        "arb_calc": 0.990481629545022
+    },
+    {
+        "game": "St. Louis Cardinals vs Chicago White Sox",
+        "team1": "Chicago White Sox",
+        "odd1": 1.03,
+        "bookmaker1": "MyBookie.ag",
+        "team2": "St. Louis Cardinals",
+        "odd2": 71.0,
+        "bookmaker2": "PointsBet (US)",
+        "arb_calc": 0.9849582934500205
+    },
+    {
+        "game": "St. Louis Cardinals vs Chicago White Sox",
+        "team1": "Chicago White Sox",
+        "odd1": 1.03,
+        "bookmaker1": "MyBookie.ag",
+        "team2": "St. Louis Cardinals",
+        "odd2": 61.0,
+        "bookmaker2": "Caesars",
+        "arb_calc": 0.9872672290307178
+    },
+    {
+        "game": "Washington Nationals vs Toronto Blue Jays",
+        "team1": "Toronto Blue Jays",
+        "odd1": 1.71,
+        "bookmaker1": "Unibet",
+        "team2": "Washington Nationals",
+        "odd2": 3.75,
+        "bookmaker2": "MyBookie.ag",
+        "arb_calc": 0.8514619883040935
+    },
+    {
+        "game": "Washington Nationals vs Toronto Blue Jays",
+        "team1": "Toronto Blue Jays",
+        "odd1": 1.78,
+        "bookmaker1": "FanDuel",
+        "team2": "Washington Nationals",
+        "odd2": 3.75,
+        "bookmaker2": "MyBookie.ag",
+        "arb_calc": 0.8284644194756554
+    },
+    {
+        "game": "Washington Nationals vs Toronto Blue Jays",
+        "team1": "Toronto Blue Jays",
+        "odd1": 1.87,
+        "bookmaker1": "PointsBet (US)",
+        "team2": "Washington Nationals",
+        "odd2": 3.75,
+        "bookmaker2": "MyBookie.ag",
+        "arb_calc": 0.8014260249554366
+    },
+    {
+        "game": "Washington Nationals vs Toronto Blue Jays",
+        "team1": "Toronto Blue Jays",
+        "odd1": 1.93,
+        "bookmaker1": "WynnBET",
+        "team2": "Washington Nationals",
+        "odd2": 2.1,
+        "bookmaker2": "Unibet",
+        "arb_calc": 0.994325191216383
+    },
+    {
+        "game": "Washington Nationals vs Toronto Blue Jays",
+        "team1": "Toronto Blue Jays",
+        "odd1": 1.93,
+        "bookmaker1": "WynnBET",
+        "team2": "Washington Nationals",
+        "odd2": 3.75,
+        "bookmaker2": "MyBookie.ag",
+        "arb_calc": 0.7848013816925734
+    },
+    {
+        "game": "Washington Nationals vs Toronto Blue Jays",
+        "team1": "Toronto Blue Jays",
+        "odd1": 1.8,
+        "bookmaker1": "BetMGM",
+        "team2": "Washington Nationals",
+        "odd2": 3.75,
+        "bookmaker2": "MyBookie.ag",
+        "arb_calc": 0.8222222222222222
+    },
+    {
+        "game": "Washington Nationals vs Toronto Blue Jays",
+        "team1": "Toronto Blue Jays",
+        "odd1": 1.83,
+        "bookmaker1": "Caesars",
+        "team2": "Washington Nationals",
+        "odd2": 3.75,
+        "bookmaker2": "MyBookie.ag",
+        "arb_calc": 0.8131147540983605
+    },
+    {
+        "game": "Washington Nationals vs Toronto Blue Jays",
+        "team1": "Toronto Blue Jays",
+        "odd1": 1.83,
+        "bookmaker1": "Bovada",
+        "team2": "Washington Nationals",
+        "odd2": 3.75,
+        "bookmaker2": "MyBookie.ag",
+        "arb_calc": 0.8131147540983605
+    },
+    {
+        "game": "Washington Nationals vs Toronto Blue Jays",
+        "team1": "Toronto Blue Jays",
+        "odd1": 1.8,
+        "bookmaker1": "DraftKings",
+        "team2": "Washington Nationals",
+        "odd2": 3.75,
+        "bookmaker2": "MyBookie.ag",
+        "arb_calc": 0.8222222222222222
+    },
+    {
+        "game": "Oakland Athletics vs Miami Marlins",
+        "team1": "Miami Marlins",
+        "odd1": 1.18,
+        "bookmaker1": "MyBookie.ag",
+        "team2": "Oakland Athletics",
+        "odd2": 6.75,
+        "bookmaker2": "DraftKings",
+        "arb_calc": 0.9956057752667923
+    },
+    {
+        "game": "Oakland Athletics vs Miami Marlins",
+        "team1": "Miami Marlins",
+        "odd1": 1.18,
+        "bookmaker1": "MyBookie.ag",
+        "team2": "Oakland Athletics",
+        "odd2": 7.8,
+        "bookmaker2": "FanDuel",
+        "arb_calc": 0.9756627553237723
+    },
+    {
+        "game": "Oakland Athletics vs Miami Marlins",
+        "team1": "Miami Marlins",
+        "odd1": 1.18,
+        "bookmaker1": "MyBookie.ag",
+        "team2": "Oakland Athletics",
+        "odd2": 7.7,
+        "bookmaker2": "Caesars",
+        "arb_calc": 0.9773277569887739
+    },
+    {
+        "game": "Oakland Athletics vs Miami Marlins",
+        "team1": "Miami Marlins",
+        "odd1": 1.18,
+        "bookmaker1": "MyBookie.ag",
+        "team2": "Oakland Athletics",
+        "odd2": 7.0,
+        "bookmaker2": "WynnBET",
+        "arb_calc": 0.990314769975787
+    },
+    {
+        "game": "Oakland Athletics vs Miami Marlins",
+        "team1": "Miami Marlins",
+        "odd1": 1.18,
+        "bookmaker1": "MyBookie.ag",
+        "team2": "Oakland Athletics",
+        "odd2": 7.25,
+        "bookmaker2": "BetMGM",
+        "arb_calc": 0.9853886616014027
+    },
+    {
+        "game": "Oakland Athletics vs Miami Marlins",
+        "team1": "Miami Marlins",
+        "odd1": 1.18,
+        "bookmaker1": "MyBookie.ag",
+        "team2": "Oakland Athletics",
+        "odd2": 6.75,
+        "bookmaker2": "Unibet",
+        "arb_calc": 0.9956057752667923
+    },
+    {
+        "game": "Arizona Diamondbacks vs San Diego Padres",
+        "team1": "Arizona Diamondbacks",
+        "odd1": 1.5,
+        "bookmaker1": "DraftKings",
+        "team2": "San Diego Padres",
+        "odd2": 4.65,
+        "bookmaker2": "MyBookie.ag",
+        "arb_calc": 0.8817204301075268
+    },
+    {
+        "game": "Arizona Diamondbacks vs San Diego Padres",
+        "team1": "Arizona Diamondbacks",
+        "odd1": 1.54,
+        "bookmaker1": "FanDuel",
+        "team2": "San Diego Padres",
+        "odd2": 4.65,
+        "bookmaker2": "MyBookie.ag",
+        "arb_calc": 0.8644044127915096
+    },
+    {
+        "game": "Arizona Diamondbacks vs San Diego Padres",
+        "team1": "Arizona Diamondbacks",
+        "odd1": 1.53,
+        "bookmaker1": "PointsBet (US)",
+        "team2": "San Diego Padres",
+        "odd2": 4.65,
+        "bookmaker2": "MyBookie.ag",
+        "arb_calc": 0.8686485346826902
+    },
+    {
+        "game": "Arizona Diamondbacks vs San Diego Padres",
+        "team1": "Arizona Diamondbacks",
+        "odd1": 1.56,
+        "bookmaker1": "Caesars",
+        "team2": "San Diego Padres",
+        "odd2": 4.65,
+        "bookmaker2": "MyBookie.ag",
+        "arb_calc": 0.8560794044665012
+    },
+    {
+        "game": "Arizona Diamondbacks vs San Diego Padres",
+        "team1": "Arizona Diamondbacks",
+        "odd1": 1.64,
+        "bookmaker1": "WynnBET",
+        "team2": "San Diego Padres",
+        "odd2": 4.65,
+        "bookmaker2": "MyBookie.ag",
+        "arb_calc": 0.8248098610018357
+    },
+    {
+        "game": "Arizona Diamondbacks vs San Diego Padres",
+        "team1": "Arizona Diamondbacks",
+        "odd1": 1.5,
+        "bookmaker1": "BetMGM",
+        "team2": "San Diego Padres",
+        "odd2": 4.65,
+        "bookmaker2": "MyBookie.ag",
+        "arb_calc": 0.8817204301075268
+    },
+    {
+        "game": "Arizona Diamondbacks vs San Diego Padres",
+        "team1": "Arizona Diamondbacks",
+        "odd1": 1.51,
+        "bookmaker1": "Unibet",
+        "team2": "San Diego Padres",
+        "odd2": 4.65,
+        "bookmaker2": "MyBookie.ag",
+        "arb_calc": 0.8773054190699994
+    },
+    {
+        "game": "Arizona Diamondbacks vs San Diego Padres",
+        "team1": "Arizona Diamondbacks",
+        "odd1": 1.57,
+        "bookmaker1": "Bovada",
+        "team2": "San Diego Padres",
+        "odd2": 4.65,
+        "bookmaker2": "MyBookie.ag",
+        "arb_calc": 0.8519964386000958
+    }
+]
